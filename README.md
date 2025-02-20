@@ -1,16 +1,12 @@
 # minimal_notes_app
 
-A new Flutter project.
+A minimal notes app, that allows you to add small notes to a list, it also has a settings page that allows the user to switch to dark mode
 
-## Getting Started
+## Screens
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/cc36dfe0-7a3e-4485-89bf-7e4bf3a8b469)
+![image](https://github.com/user-attachments/assets/757de7e7-c454-4474-9728-5bc033608221)
+![image](https://github.com/user-attachments/assets/d3d8cdc6-5bf9-4eaf-beef-b1d42ad48396)
+![image](https://github.com/user-attachments/assets/cf65b86a-2737-49d4-a3e7-4ebe1763d14a)
+![image](https://github.com/user-attachments/assets/c6187df6-fcab-4566-af4e-74c992aab659)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
